@@ -1,0 +1,75 @@
+body {
+    background-color: darkslategray
+}
+
+container {
+  display: flex;
+  flex-wrap: wrap;
+  margin: 2em;
+  padding: .5em
+}
+
+img {
+    display: block;
+    margin-left: auto;
+    margin-right: auto;
+    width: 60%;
+}
+
+h1 {
+    text-align: center;
+}
+
+h2 {
+    font-weight: bold;
+    font-size: 1.5em;
+    text-align: center;
+    
+}
+
+h3 {
+    font-size: 16pt;
+    font-weight: normal;
+    margin: 0 auto;
+    padding-left: .5em;
+}
+
+div {
+    width: 350px;
+    background-color: white;
+    border-style: solid;
+    border-color: lightblue;
+    box-shadow: 1px .5px .5px black;
+    margin: .5em;
+}
+
+.availability {
+    background-color: gray;
+    color: yellow;
+    padding: .4em;
+}
+
+.description {
+    text-align: justify;
+    text-justify: inter-word;
+    font-size: 14pt;
+    margin-left: .5em;
+    margin-right: .5em;
+}
+
+.size-weight {
+    font-weight: bold;
+    margin: 0 auto;
+    padding-left: 1.2em;
+}
+
+.pricing {
+    font-weight: bold;
+    margin: 0 auto;
+    padding-left: 1.2em;
+}
+
+.specs {
+    margin-top: .25em;
+    margin-bottom: .25em;
+}
