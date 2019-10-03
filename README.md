@@ -4,7 +4,7 @@
 > A website to sell a series of themed products, styled using flexbox 
 
 ## Screenshots
-[screenshot of product cards](https://raw.githubusercontent.com/jacob-bw/Group-Project-1.0/master/product%20cards%20screenshot.png)
+![screenshot of product cards](https://raw.githubusercontent.com/jacob-bw/Group-Project-1.0/master/product%20cards%20screenshot.png)
 
 # Instructions on How to Run
 * clone down this project
